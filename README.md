@@ -1,6 +1,6 @@
 # Project Timer 
 
-## This project using styled-component, react-router-dom and...
+## This project using Type Script, styled-component, react-router-dom and...
 
 ### Create project, install dependences, styled-components and types for styled-components on develop
 
