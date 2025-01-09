@@ -1,4 +1,6 @@
-# Create project, install dependences, styled-components and types for styled-components on develop
+# Project Timer, this project using styled-component, react-router-dom and...
+
+### Create project, install dependences, styled-components and types for styled-components on develop
 
 ```code
 npm create vite@latest
